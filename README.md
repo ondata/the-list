@@ -11,4 +11,4 @@ The source of the data is [www.unitedagainstracism.org](http://www.unitedagainst
 
 To transform the PDF to CSV files we have created [this script](pdfToCsv.sh).
 
-[![the-list page](resource/theGuardian.png)](https://www.theguardian.com/world/2018/jun/20/the-list-34361-men-women-and-children-who-perished-trying-to-reach-europe-world-refugee-day)
+[![the-list page](resource/theGuardian.png)](https://www.theguardian.com/world/2018/jun/20/the-list-europe-migrant-bodycount)
